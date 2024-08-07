@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.lms</groupId>
+  <artifactId>usermanagement</artifactId>
+  <versioning>
+    <lastUpdated>20240805115208</lastUpdated>
+    <snapshot>
+      <timestamp>20240805.115208</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20240805.115208-1</value>
+        <updated>20240805115208</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20240805.115208-1</value>
+        <updated>20240805115208</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>

@@ -1,0 +1,11 @@
+<testsuite errors="0" failures="1" tests="3" time="0.01">
+    <testcase classname="com.lms.usermanagement.service.UserServiceTest" name="testRegisterUser" time="0.01">
+        <failure message="expected:<...> but was:<...>" type="junit.framework.AssertionFailedError">
+            <![CDATA[junit.framework.AssertionFailedError: expected:<...> but was:<...>
+            at com.lms.usermanagement.service.UserServiceTest.testRegisterUser(UserServiceTest.java:25)
+            ]]>
+        </failure>
+    </testcase>
+    <testcase classname="com.lms.usermanagement.service.UserServiceTest" name="testAuthenticateUser" time="0.01"/>
+    <testcase classname="com.lms.usermanagement.service.UserServiceTest" name="testGetUserByUsername" time="0.01"/>
+</testsuite>
